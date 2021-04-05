@@ -1,0 +1,7 @@
+関数の呼び出し方
+1. オーソドックスに順番に指定する
+2. キーワード引数
+
+
+
+$ git remote add origin https://github.com/sibaken33/mysite.git
